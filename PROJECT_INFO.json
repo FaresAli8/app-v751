@@ -1,0 +1,9 @@
+{
+    "name": "ProCalc - Arabic Professional Calculator",
+    "package": "com.procalc.app",
+    "description": "Professional scientific calculator with Arabic support, dark mode, and offline capability.",
+    "minSdk": 24,
+    "targetSdk": 34,
+    "architecture": "MVVM",
+    "ui_framework": "Jetpack Compose"
+}
